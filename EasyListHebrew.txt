@@ -87,6 +87,7 @@
 ||psakdin.co.il^$domain=calcalist.co.il
 ||rot.minifier.co.il^$domain=rotter.net
 ||shorter.co.il/js/fp.js.php
+||s3.amazonaws.com^$domain=globes.co.il,ynet.co.il
 !
 ! *** Popup sites *** !
 !
